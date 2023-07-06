@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://github.com/criscrafter/JMusicBot-Unraid/issues</Support>
+  <Support></Support>
   <Project>https://github.com/jagrosh/MusicBot</Project>
   <Overview>A cross-platform Discord music bot with a clean interface!&#xD;
 To get started, run the container once and then stop it. Modify the config.txt file to add your Discord ID and Discord Bot Token.&#xD;
