@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>JMusicBot</Name>
+  <Repository>criscrafter/jmusicbot:latest</Repository>
+  <Registry/>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support>https://github.com/criscrafter/JMusicBot-Unraid/issues</Support>
+  <Project>https://github.com/jagrosh/MusicBot</Project>
+  <Overview>A cross-platform Discord music bot with a clean interface!&#xD;
+To get started, run the container once and then stop it. Modify the config.txt file to add your Discord ID and Discord Bot Token.&#xD;
+Once that's done, simply restart the container and let it run. It couldn't be easier! :D</Overview>
+  <Category>Other:</Category>
+  <WebUI/>
+  <TemplateURL/>
+  <Icon>https://raw.githubusercontent.com/criscrafter/Unraid-CA/main/JMusicBot.png</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1688607831</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Requires/>
+  <Config Name="Config folder" Target="/app/config" Default="/mnt/user/appdata/JMusicBot" Mode="rw" Description="The location in which the config.txt file is stored." Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/JMusicBot</Config>
+</Container>
