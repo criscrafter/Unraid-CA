@@ -21,7 +21,7 @@ Once that's done, simply restart the container and let it run. It couldn't be ea
   <CPUset/>
   <DateInstalled>1688607831</DateInstalled>
   <DonateText>No pressure, but greatly appreciated.</DonateText>
-  <DonateLink>https://bmc.link/criscrafter</DonateLink>
+  <DonateLink>https://ko-fi.com/criscrafter</DonateLink>
   <Requires/>
   <Config Name="Config folder" Target="/app/config" Default="/mnt/user/appdata/JMusicBot" Mode="rw" Description="The location in which the config.txt file is stored." Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/JMusicBot</Config>
 </Container>
