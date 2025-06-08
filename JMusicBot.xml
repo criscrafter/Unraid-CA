@@ -8,10 +8,17 @@
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
   <Support></Support>
-  <Project>https://github.com/jagrosh/MusicBot</Project>
-  <Overview>A cross-platform Discord music bot with a clean interface!&#xD;
+  <Project>https://github.com/SeVile/MusicBot</Project>
+  <Overview>IMPORTANT! I Switched Docker source Image from original Jagrosh/Musicbot to SeVile/MusicBot, since Jagrosh doesn't seem to care about updating the bot anymore and Youtube Playback has been broken for months.
+SeVile has basically a mirror of Jagrosh's bot, but with the current Youtube Fetcher.&#xD; &#xD;
+A cross-platform Discord music bot with a clean interface!&#xD;
 To get started, run the container once and then stop it. Modify the config.txt file to add your Discord ID and Discord Bot Token.&#xD;
-Once that's done, simply restart the container and let it run. It couldn't be easier! :D</Overview>
+Once that's done, simply restart the container and let it run. It couldn't be easier! :D&#xD; &#xD;
+I am not the developer of any of the Docker Containers I release! I am only dockerizing the containers in a Unraid Comunity Applications compatible format.
+
+If you like the work I do, consider donating through my paypal link or my ko-fi link, but also always consider donating to the people who created the software and did the actual hard work! :)&#xD;
+https://www.paypal.com/paypalme/FriedrichCRosenthal https://ko-fi.com/criscrafter
+  </Overview>
   <Category>Other:</Category>
   <WebUI/>
   <TemplateURL/>
